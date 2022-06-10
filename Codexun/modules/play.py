@@ -139,7 +139,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
 
     image = Image.open(f"./background.png")
     black = Image.open("etc/black.jpg")
-    img = Image.open("etc/CodexunSq.png")
+    img = Image.open("etc/LetmeknowyouxSq.png")
     image5 = changeImageSize(1280, 720, img)
     image1 = changeImageSize(1280, 720, image)
     image1 = image1.filter(ImageFilter.BoxBlur(10))
