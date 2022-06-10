@@ -16,7 +16,7 @@
 <p align="center">
 
 <p align="center">
-    <br><b>Kangers Welcome You!</b><br>
+    <br><b>HEY BABY💙 Thnks!</b><br>
 </p>
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=PavanMagar&repo=CodexunMusicBot&theme=dark)
